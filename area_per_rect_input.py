@@ -11,7 +11,7 @@ def main():
     unit_of_measurement = input(
         "Please enter a unit of measurement (i.e, cm, mm, etc.): "
     )
-    length = int(input("Enter length vlaue: "))
+    length = int(input("Enter length value: "))
     width = int(input("Enter width value: "))
 
     # area and perimeter calculations
